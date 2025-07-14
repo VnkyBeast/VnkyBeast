@@ -90,7 +90,7 @@ me.say_hi()
 <div align="center">
 
 ### 🤖 VnkyAI - Intelligent Chatbot
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50" height="50" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG9xdGVxdHJhZjBxNzNsdGtuZ2oybXNkZGlldzBpbDVpb2NqaWk2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="80" height="50" />
 
 **Tech Stack:** Python, NLP, Machine Learning, Web Development  
 **Accuracy:** 92% | **Features:** Intent Recognition, Entity Extraction, Context Management  
@@ -99,7 +99,7 @@ me.say_hi()
 ---
 
 ### 🎯 AI-Based Person Detection System
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50" height="50" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZxNmQ3c2w4MXNtMGVxNGRrNWRiNzhuaGVkZGVqZng0NmM3c3BhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="80" height="50" />
 
 **Tech Stack:** YOLO, Raspberry Pi, PIR Sensors, Python, Computer Vision  
 **Performance:** 24 FPS | **Accuracy:** 95% | **Power:** Optimized for edge computing  
@@ -108,7 +108,7 @@ me.say_hi()
 ---
 
 ### 🚁 Aircraft Detection using Deep Learning
-<img src="https://media.giphy.com/media/3o7TKB3oifq46DDhOE/giphy.gif" width="50" height="50" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJkMmZhMzNvbGxvZnJza2xobGEzc2prZGpsc2QybXNycnJzNGlqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="80" height="50" />
 
 **Tech Stack:** YOLOv5, Python, Computer Vision, Deep Learning  
 **Accuracy:** 93% | **Focus:** Military aircraft identification  
@@ -117,7 +117,7 @@ me.say_hi()
 ---
 
 ### 🌱 Smart Farming System using IoT
-<img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjFe/giphy.gif" width="50" height="50" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmpqbTh1NzRjMGRjY2pxNXBpcWF0amc3aXY2NGVtcHlvOXBiMWl0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Fb7Mi0prBC/giphy.gif" width="80" height="50" />
 
 **Tech Stack:** Arduino, MQTT, HiveMQ, Analog Sensors, Web Dashboard  
 **Monitoring:** Temperature, Humidity, UV, Soil Moisture, Air Quality  
@@ -130,13 +130,13 @@ me.say_hi()
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=FFFFFF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VnkyBeast&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VnkyBeast&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=FFFFFF" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FF6B6B" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VnkyBeast&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VnkyBeast&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FF6B6B" width="48%" />
 </div>
 
 ---
@@ -163,13 +163,13 @@ me.say_hi()
   <a href="mailto:22bcscs054@student.rru.ac.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/vinay-kumar-yadav-49571a28b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/VnkyBeast">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+  <a href="https://leetcode.com/u/Vnky_01/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=000000" />
   </a>
 </div>
@@ -181,7 +181,7 @@ me.say_hi()
   
   ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Thanks for visiting! Let's build the future together! 🚀
   
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00F7FF&labelColor=000000" />
+  <img src="https://komarev.com/ghpvc/?username=VnkyBeast&style=for-the-badge&color=00F7FF&labelColor=000000" />
 </div>
 
 ---
