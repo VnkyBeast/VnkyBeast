@@ -90,7 +90,6 @@ me.say_hi()
 <div align="center">
 
 ### 🤖 VnkyAI - Intelligent Chatbot
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG9xdGVxdHJhZjBxNzNsdGtuZ2oybXNkZGlldzBpbDVpb2NqaWk2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="80" height="50" />
 
 **Tech Stack:** Python, NLP, Machine Learning, Web Development  
 **Accuracy:** 92% | **Features:** Intent Recognition, Entity Extraction, Context Management  
@@ -99,7 +98,6 @@ me.say_hi()
 ---
 
 ### 🎯 AI-Based Person Detection System
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZxNmQ3c2w4MXNtMGVxNGRrNWRiNzhuaGVkZGVqZng0NmM3c3BhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="80" height="50" />
 
 **Tech Stack:** YOLO, Raspberry Pi, PIR Sensors, Python, Computer Vision  
 **Performance:** 24 FPS | **Accuracy:** 95% | **Power:** Optimized for edge computing  
@@ -108,7 +106,6 @@ me.say_hi()
 ---
 
 ### 🚁 Aircraft Detection using Deep Learning
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJkMmZhMzNvbGxvZnJza2xobGEzc2prZGpsc2QybXNycnJzNGlqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="80" height="50" />
 
 **Tech Stack:** YOLOv5, Python, Computer Vision, Deep Learning  
 **Accuracy:** 93% | **Focus:** Military aircraft identification  
@@ -117,7 +114,6 @@ me.say_hi()
 ---
 
 ### 🌱 Smart Farming System using IoT
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmpqbTh1NzRjMGRjY2pxNXBpcWF0amc3aXY2NGVtcHlvOXBiMWl0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Fb7Mi0prBC/giphy.gif" width="80" height="50" />
 
 **Tech Stack:** Arduino, MQTT, HiveMQ, Analog Sensors, Web Dashboard  
 **Monitoring:** Temperature, Humidity, UV, Soil Moisture, Air Quality  
@@ -194,4 +190,32 @@ me.say_hi()
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
+</div>
+
+---
+
+## 😄 Coding Memes & Fun
+
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" height="200" />
+  <br>
+  <em>When your code works on the first try</em>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" height="200" />
+  <br>
+  <em>Debugging be like...</em>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" height="200" />
+  <br>
+  <em>When you finally understand recursion</em>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" height="200" />
+  <br>
+  <em>Me explaining my code to other developers</em>
 </div>
